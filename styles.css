@@ -421,6 +421,7 @@ select {
         background-size: auto;
         background-position: left;
         padding: 0;
+         height: 50vh;
     }
 
     .hambuger {
@@ -558,11 +559,16 @@ select {
     }
 
     .hair-header img {
-        width: 610px;
+         width: 680px;
+        height: 760px;
     }
 
     .hair {
-        width: 610px;
+         width: 680px;
+        height: 940px;
+    }
+    main {
+        height: 82vh;
     }
 }
 
